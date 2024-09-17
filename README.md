@@ -2,16 +2,31 @@
 
 ## **Overview**
 
-In my internship project, I developed an interactive object Classification System using **Convolutional Neural Networks (CNNs)**. The model is capable of classifying images with high accuracy and is accessible through a user-friendly web interface.
+## Project Highlights:
 
-## **Key Features**
+🔍 **Innovative Model Design:**
 
-- **Advanced CNN Architecture**:
-      Designed a robust CNN model with multiple layers, batch normalization, dropout, and advanced regularization techniques.
+- **Advanced CNN Architecture:**
+    Developed a Convolutional Neural Network with multiple layers, batch normalization, dropout, and advanced regularization, ensuring robustness and adaptability.
 - **High Accuracy**:
-      Achieved 92% accuracy on test images and 87% on unseen images.
-- **User-Friendly Web Interface**:
-      Users can upload images and receive instant classification results through an intuitive and visually appealing interface.
+    Achieved 92% accuracy on test images and 87% on unseen data, proving strong performance.
+  
+🌐 **User-Friendly Web Interface**:
+
+- **Effortless Uploads & Instant Results**:
+   Users can upload images via an intuitive interface, and the system quickly classifies them, showing predictions alongside the images.
+- **Engaging Design:**
+   A visually appealing interface enhances the user experience.
+
+  
+🌐 **Personal Touch & Unique Approach:**
+
+- **Flexible Image Input:**
+   Handles images of any size, with preprocessing to ensure accurate classification.
+- **Comprehensive Preprocessing Pipeline:**
+   Ensures accurate predictions regardless of original image size.
+- **Acknowledgments:**
+   Special thanks to Sir Waqas Ali, my first Python instructor, for his invaluable guidance.
 
   
 ## **Technologies Used**
