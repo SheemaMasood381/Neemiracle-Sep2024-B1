@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CIFAR-10 Object Recognition</title>
+</head>
+<body>
+    <h1>CIFAR-10 Object Recognition</h1>
+    <form action="/" method="post" enctype="multipart/form-data">
+        <label for="file">Upload an image:</label>
+        <input type="file" name="file" id="file">
+        <input type="submit" value="Predict">
+    </form>
+    
+    <h2>Or Upload Multiple Images:</h2>
+    <form action="/multiple" method="post" enctype="multipart/form-data">
+        <label for="files">Upload images:</label>
+        <input type="file" name="file" id="files" multiple>
+        <input type="submit" value="Predict Multiple">
+    </form>
+</body>
+</html>
